@@ -9,6 +9,7 @@ namespace CivCampusExercise_2021
         {
             UI ui = new UI();
             ui.Init();
+            //msg
         }
 
 
